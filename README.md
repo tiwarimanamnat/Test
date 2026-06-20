@@ -2,7 +2,7 @@
 
 A comprehensive machine learning pipeline for analyzing physiological stress and recovery using wearable device data (Fitbit/Empatica E4).
 
-
+Something more 
 ## 📊 Pipeline Architecture
 
 ```mermaid
